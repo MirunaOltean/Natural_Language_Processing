@@ -1,0 +1,31 @@
+{
+    "labels": [
+      "Natural Language Processing",
+      "Not related to Natural Language Processing"
+    ],
+    "nlp_keywords": [
+      "tokenization", "lemmatization", "stemming", "parsing", "POS tagging", "part-of-speech tagging",
+      "syntax", "semantics", "machine translation", "sentiment analysis", "text classification",
+      "question answering", "chatbot", "text generation", "summarization", "language modeling",
+      "topic modeling", "named entity recognition", "relation extraction", "BLEU score", "ROUGE score",
+      "GLUE", "SuperGLUE", "OpenWebText",
+      "transformers", "BERT", "RoBERTa", "DistilBERT", "GPT", "GPT-2", "GPT-3", "GPT-4", "XLNet", "T5",
+      "BART", "mBERT", "LaMDA", "LLaMA", "Claude", "Bloom", "Falcon", "attention mechanism",
+      "multi-head attention", "feed-forward network", "positional encoding",
+      "transformer architecture", "fine-tuning", "pre-training", "zero-shot learning", "few-shot learning",
+      "transfer learning", "unsupervised learning", "supervised learning", "token classification",
+      "sequence classification", "sequence-to-sequence tasks", "masked language modeling",
+      "prompt engineering", "retrieval-augmented generation", "RAG", "RLHF", "reward modeling", "token limit",
+      "top-p sampling", "beam search", "Hugging Face", "OpenAI API", "LangChain", "transformers library",
+      "search engines", "conversational AI", "voice assistants", "virtual assistants", "speech-to-text",
+      "text-to-speech", "document summarization", "chatbots in healthcare",
+      "financial analytics with NLP", "OpenAI", "Google AI", "Microsoft Azure", "Hugging Face", "Anthropic",
+      "Stability AI",
+      "embeddings", "vectorization", "cosine similarity", "TF-IDF", "word2vec", "GloVe",
+      "Euclidean distance", "dot product", "gradient descent", "Adam optimizer", "softmax",
+      "cross-entropy loss", "beam search", "loss functions", "tokenization"
+    ]
+  }
+  
+
+  
